@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prime Wonder</string>
+    <string name="yesText">Yes</string>
+    <string name="noText">No</string>
+    <string name="nextText">Next</string>
+    <string name="firstPart">Is</string>
+    <string name="secondPart">, a Prime Number ?</string>
+</resources>
